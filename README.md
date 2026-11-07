@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./assets/komari.gif"
+  src="https://wallpapercave.com/wp/wp14229643.jpg"
   alt="Terakomari Gandesblood"
   width="280"
 />
