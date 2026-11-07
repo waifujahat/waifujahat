@@ -9,7 +9,6 @@
 ### Hello, I'm waifujahat 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-waifujahat-242038?style=flat-square&logo=github&logoColor=white)](https://github.com/waifujahat)
-[![Code](https://img.shields.io/badge/Focus-Clean%20Code-A83457?style=flat-square)](https://github.com/waifujahat?tab=repositories)
 [![Learning](https://img.shields.io/badge/Status-Always%20Learning-BD925C?style=flat-square)](https://github.com/waifujahat?tab=repositories)
 
 </div>
