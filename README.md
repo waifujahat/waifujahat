@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://hikikomari-en.com/assets/img/character-detail-img01B.png"
+  src="./assets/komari.gif"
   alt="Terakomari Gandesblood"
   width="280"
 />
@@ -26,6 +26,11 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-242038?style=flat-square&logo=cplusplus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-242038?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-242038?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-242038?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-242038?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-242038?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-242038?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-242038?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
